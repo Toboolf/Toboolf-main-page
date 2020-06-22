@@ -1,0 +1,7 @@
+[submodule "Toboolf-main-page/themes/hugo-coder"]
+	path = Toboolf-main-page/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "Toboolf-main-page/public"]
+	path = Toboolf-main-page/public
+	url = git@github.com:Toboolf/Toboolf.github.io.git
+	branch = master
