@@ -1,0 +1,4 @@
+baseURL = "https://toboolf.github.io/"
+languageCode = "en-us"
+title = "Toboolf"
+theme = "hugo-coder"
